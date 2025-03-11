@@ -1,0 +1,2 @@
+memory:
+	python memory.py
