@@ -1,7 +1,7 @@
 # Key points to get memory working for the AI
 
 1. I added very descriptive prompts.
-2. Summary object now contains the summary of the entire conversation and the summarized parts. This is what we did with appending the user prompts and passing it to the LLM. 
+2. Summary object now contains the summary of the entire conversation and the summarized parts. 
 
 # Sample output
 
