@@ -1,3 +1,6 @@
+This is a proof of concept demonstrating how to use previous conversations as context when querying a large language model (LLM) like OpenAI. It represents a simplified version of implementing a RAG (Retrieval-Augmented Generation) system behind a conversational app.
+
+
 # Key points to get memory working for the AI
 
 1. I added very descriptive prompts.
